@@ -1,6 +1,6 @@
-# Unhinted-iosevka-aile WebFont 17.1.0
+# Unhinted Iosevka Aile WebFont 17.1.0
 
 ## How to use
 
-- Add `<link href="https://iosevkawebfonts.github.io/Unhinted-iosevka-aile/Unhinted-iosevka-aile.css" rel="stylesheet" />` to your `<head>`.
-- Use `fontFamily: 'Unhinted iosevka aile Web'` or `font-family: 'Unhinted iosevka aile Web'`.
+- Add `<link href="https://iosevka-webfonts.github.io/unhinted-iosevka-aile/unhinted-iosevka-aile.css" rel="stylesheet" />` to your `<head>`.
+- Use `fontFamily: 'Iosevka Aile Web'` or `font-family: 'Iosevka Aile Web'`.
